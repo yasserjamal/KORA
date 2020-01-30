@@ -1,0 +1,99 @@
+@media  screen and (max-width:1100px) {
+    .bg{
+        position: fixed;
+        z-index: -1;;
+        width: 150%;
+        height: 100%;;
+        left: -23%;
+        }
+       .bg img{
+         height:  100%;
+         width: 100%;
+        } 
+        .menuPhone ul{
+            display:block;
+        }
+}
+@media  screen and (max-width: 708px) {
+   .navbar{
+       display: none;
+   }
+    
+   .imgX{
+       display:none;
+   }
+   .bg{
+    position: fixed;
+    z-index: -1;;
+    width: 200%;
+    height: 100%;;
+    left: -45%;
+    }
+   .bg img{
+     height:  100%;
+     width: 100%;
+    }
+   .logo{
+    position: fixed;
+     z-index: 2;
+     width:100px; ;
+    right: 0%;
+    left: calc(0% + 40px );
+    top: 5%;;}
+    .btn-share{
+        position: fixed;
+         z-index: 2;
+         width:100px; ;
+        right: 0%;
+        left: calc(0% + 40px );
+        top: 25%;;}
+   .ThreeChallengeBox{
+    position: fixed;
+    width: 350px;
+    z-index: 2;
+    right: 0%;
+    left: 0%;
+    top: 35%;
+  }
+  .ThreeChallengeBox a.ch1{
+    right: 30%;
+    }
+    .ThreeChallengeBox a.ch2{
+      right: 58%;
+      top: 68px;
+      }
+      .ThreeChallengeBox a.ch3{
+        right: calc(2% + 1px );
+        top: 58px;
+        
+    } 
+    .menuBtn{
+        display: inline-block;
+
+    }
+}
+
+
+@media screen and (max-width: 330px) {
+ .ThreeChallengeBox{
+    position: fixed;
+    width: 280px;
+    z-index: 2;
+    right: 0%;
+    left: 0%;
+    top: 35%;
+  }
+  .ThreeChallengeBox a.ch1{
+    right: 30%;
+    }
+    .ThreeChallengeBox a.ch2{
+      right: 58%;
+      top: 54px;
+      }
+      .ThreeChallengeBox a.ch3{
+        right: calc(2% + 1px );
+        top: 46px;
+        
+    } 
+
+}

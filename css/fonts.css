@@ -1,0 +1,123 @@
+/* start  noor font  code */
+@font-face {
+    font-family: "NoorBold";
+    src: url(../fonts/noorFontBold.ttf);
+  }
+  @font-face {
+    font-family: "NoorLight";
+    src: url(../fonts/noorFontLight.ttf);
+  }
+   
+  @font-face {
+    font-family: "NoorRegular";
+    src: url(../fonts/noorFontRegular.ttf);
+  }
+  /* end  noor font  code */
+/* icon  font  code */
+
+  @font-face {
+    font-family: "fa"; /* fontawesome*/
+    src: url(../fonts/fontawesome-webfont.ttf);
+  }
+   
+  @font-face {
+    font-family: "la";/* lineawesome*/
+    src: url(../fonts/la-regular-400.ttf);
+  }
+   /*  end icon  font  code */
+
+   /* start  Tajawal font  code */
+@font-face {
+    font-family: "TajawalBold";
+    src: url(../fonts/Tajawal-Bold.ttf);
+  }
+  @font-face {
+    font-family: "TajawalLight";
+    src: url(../fonts/Tajawal-Light.ttf);
+  }
+   
+  @font-face {
+    font-family: "TajawalRegular";
+    src: url(../fonts/Tajawal-Regular.ttf);
+  }
+  /* end  Tajawal font  code */
+
+  
+   /* start  Roboto font  code */
+@font-face {
+    font-family: "RobotoBold";
+    src: url(../fonts/Roboto-Bold.ttf);
+  }
+  @font-face {
+    font-family: "RobotoLight";
+    src: url(../fonts/Roboto-Light.ttf);
+  }
+   
+  @font-face {
+    font-family: "RobotoRegular";
+    src: url(../fonts/Roboto-Regular.ttf);
+  }
+  /* end  Roboto font  code */
+
+  
+   /* start  Markazi font  code */
+@font-face {
+    font-family: "MarkaziBold";
+    src: url(../fonts/MarkaziText-Bold.ttf);
+  }
+  @font-face {
+    font-family: "MarkaziLight";
+    src: url(../fonts/MarkaziText-Medium.ttf);
+  }
+   
+  @font-face {
+    font-family: "MarkaziRegular";
+    src: url(../fonts/MarkaziText-Regular.ttf);
+  }
+  /* end  Markazi font  code */
+
+  @font-face {  /*   Jazoor font  code */
+    font-family: "Jazoor";
+    src: url(../fonts/AraJozoor-Regular.ttf);
+  }
+  
+  @font-face {  /*   JFlat font  code */
+    font-family: "JFlat";
+    src: url(../fonts/JF-Flat-regular.ttf);
+  }
+
+ 
+
+ /* start  Almarai font  code */
+ @font-face {
+    font-family: "AlmaraiBold";
+    src: url(../fonts/Almarai-Bold.ttf);
+  }
+  @font-face {
+    font-family: "AlmaraiBoldx";
+    src: url(../fonts/Almarai-ExtraBold.ttf);
+  }
+   
+  @font-face {
+    font-family: "AlmaraiRegular";
+    src: url(../fonts/Almarai-Regular.ttf);
+  }
+  @font-face {
+    font-family: "AlmaraiLight";
+    src: url(../fonts/Almarai-Light.ttf);
+  }
+  /* end  Almarai font  code */
+
+
+ /* start  DroidKufi font  code */
+ @font-face {
+  font-family: "DroidBold";
+  src: url(../fonts/DroidKufi-Bold.ttf);
+}
+@font-face {
+  font-family: "DroidRegular";
+  src: url(../fonts/DroidKufi-Regular.ttf);
+}
+  
+/* end  DroidKufi font  code */
+
